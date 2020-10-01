@@ -8,7 +8,7 @@ public class DemoTest {
 
     @Test
     public void test_case1() {
-        Assert.assertEquals(10, 10);
+        System.out.println("abcdefg");;
     }
 
     @Test
