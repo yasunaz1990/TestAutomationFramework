@@ -13,4 +13,8 @@ public class AliTest {
     public void test_case_2(){
         Assert.assertEquals(10, 11);
     }
+    @Test
+    public void test_case_3(){
+        Assert.assertEquals(10, 11);
+    }
 }
