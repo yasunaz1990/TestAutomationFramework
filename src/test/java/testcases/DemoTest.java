@@ -8,6 +8,7 @@ public class DemoTest {
 
     @Test
     public void test_case1() {
+        System.out.println("abcdefg");;
         Assert.assertTrue(false);
     }
 
