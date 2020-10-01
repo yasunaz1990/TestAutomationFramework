@@ -20,4 +20,9 @@ public class NijatTest {
     public void test_case_seven() {
         Assert.assertEquals(10,11);
     }
+
+    @Test
+    public void test_case_eight() {
+        Assert.assertEquals(10,11);
+    }
 }
